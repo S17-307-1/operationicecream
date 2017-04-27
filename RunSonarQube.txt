@@ -1,0 +1,3 @@
+Run sonarqube (maven):
+
+sonar:sonar -Dsonar.host.url=https://sonarqube.com -Dsonar.organization=jebradbury39-github -Dsonar.login=a8487c93b5ee5a0fb0fba8519278316e616d09a0
