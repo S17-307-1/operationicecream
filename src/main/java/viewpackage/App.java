@@ -32,7 +32,6 @@ public class App extends StateBasedGame {
 
   @Override
   public void initStatesList(GameContainer container) throws SlickException {
-    // TODO Auto-generated method stub
     this.enterState(MENU_STATE);
   }
 }
